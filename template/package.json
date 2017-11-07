@@ -1,0 +1,10 @@
+{
+  "name": "{{ name }}",
+  "description": "{{ description }}",
+  "version": "{{ version }}",
+  "author": "{{ author }}",
+  "license": "{{ license }}",
+  "private": true,
+  "devDependencies": {
+  }
+}
