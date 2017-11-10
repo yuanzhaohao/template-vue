@@ -5,6 +5,15 @@
   "author": "{{ author }}",
   "license": "{{ license }}",
   "private": true,
+  "script": {
+    "start": "seven dev -p 7777",
+    "dev": "npm run start",
+    "build": "seven build"
+  },
+  "dependencies": {
+
+  },
   "devDependencies": {
+    
   }
 }

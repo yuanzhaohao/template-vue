@@ -1,7 +1,6 @@
 {
   "staticPath": "./static",
   "assetsRoot": "./dist",
-  "assetsPublicPath": "./",
   "cssSourceMap": true,
   "viewportWidth": 750
 }
