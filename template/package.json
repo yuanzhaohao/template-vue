@@ -5,9 +5,9 @@
   "author": "{{ author }}",
   "license": "{{ license }}",
   "private": true,
-  "script": {
+  "scripts": {
     "start": "seven dev -p 7777",
-    "dev": "npm run start",
+    "dev": "seven dev -p 7777",
     "build": "seven build"
   },
   "dependencies": {
